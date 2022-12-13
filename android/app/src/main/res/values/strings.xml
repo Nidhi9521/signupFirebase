@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FireBase_fb</string>
+    <string name="facebook_app_id">975854536626360</string>
+    <string name="fb_login_protocol_scheme">fb975854536626360</string>
+    <string name="facebook_client_token">add787c78442bdbe4adbcd0c5a849e4d</string>
+
+
+</resources>
